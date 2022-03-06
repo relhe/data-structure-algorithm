@@ -5,6 +5,7 @@
 
 #projet specific folder
 bin/**
+src/*.class
 
 
 # User-specific files
