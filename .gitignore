@@ -6,6 +6,9 @@
 #projet specific folder
 bin/**
 src/*.class
+bin
+.vscode
+
 
 
 # User-specific files
